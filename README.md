@@ -6,6 +6,7 @@ In today’s highly competitive ecommerce landscape, understanding customer beha
 This project focuses on performing customer segmentation analysis for an ecommerce company using data analytics techniques. By leveraging clustering algorithms like K-means, we aim to uncover meaningful patterns in customer behavior. The insights derived from this analysis will support data-driven decision-making in areas such as personalized marketing, product recommendations, and customer retention strategies.
 
 Objectives
+
 The main objectives of this project are:
 
 Data Collection and Preparation
