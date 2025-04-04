@@ -9,21 +9,17 @@ Objectives
 
 The main objectives of this project are:
 
-Data Collection and Preparation
+Data Collection and Preparation:
 Acquire and preprocess a dataset containing customer demographics, transaction history, and behavioral metrics.
 
-Data Exploration and Cleaning
+Data Exploration and Cleaning:
 Understand the dataset’s structure, identify missing or inconsistent data, and clean the data for analysis.
 
-Descriptive Statistical Analysis
+Descriptive Statistical Analysis:
 Compute essential statistics such as average purchase value, total spend, and purchase frequency to summarize customer behavior.
 
-Customer Segmentation
+Customer Segmentation:
 Apply clustering techniques (e.g., K-means) to segment customers based on their purchasing patterns and behaviors.
 
-Visualization
+Visualization:
 Create intuitive visualizations (e.g., scatter plots, bar charts, cluster maps) to present and interpret the customer segments.
-
-Insights and Recommendations
-Analyze each customer segment's characteristics and provide actionable business recommendations to optimize marketing strategies and improve customer satisfaction.
-
