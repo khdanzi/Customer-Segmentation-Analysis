@@ -3,7 +3,6 @@ Customer Segmentation Analysis
 
 Introduction
 In today’s highly competitive ecommerce landscape, understanding customer behavior is vital for business success. Customer segmentation is a strategic approach that allows companies to group their customer base into distinct segments based on common characteristics such as purchase behavior, frequency, and value. By identifying these segments, businesses can tailor marketing strategies, enhance customer experience, and boost profitability.
-
 This project focuses on performing customer segmentation analysis for an ecommerce company using data analytics techniques. By leveraging clustering algorithms like K-means, we aim to uncover meaningful patterns in customer behavior. The insights derived from this analysis will support data-driven decision-making in areas such as personalized marketing, product recommendations, and customer retention strategies.
 
 Objectives
